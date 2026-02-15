@@ -1,7 +1,7 @@
 # AURIX-sentinel
 AURIX-sentinel is an advanced AI voice assistant that controls your PC, answers queries, and supports multiple languages. Features include speech recognition, text-to-speech, PC app control, web search, and integration with DeepSeek AI for smart conversational responses.
 
-# AURIX – Advanced Universal Responsive Intelligence eXpert
+# AURIX – Advanced Universal Responsive Intelligence eXpert.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
