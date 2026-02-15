@@ -14,13 +14,13 @@ It can **control your PC**, answer questions in real-time, and communicate in ma
 ---
 
 ## 🚀 Features
-- 🎤 **Voice Commands** – Natural speech interaction
-- 🗣️ **Text-to-Speech** – Human-like responses using `pyttsx3`
-- 🌐 **Multi-language Support** – Translate and converse in multiple languages
-- 💻 **PC Control** – Open apps, search the web, manage files
-- 📡 **Real-time AI** – Uses **DeepSeek R1 API** for smart responses
-- ⏹️ **Interruptible Speech** – Say `"AURIX Wait"` to stop ongoing speech
-- 📝 **Chunked Speech Handling** – Smoothly delivers long answers
+- 🎤 **Voice Commands** – Natural speech interaction.
+- 🗣️ **Text-to-Speech** – Human-like responses using `pyttsx3`.
+- 🌐 **Multi-language Support** – Translate and converse in multiple languages.
+- 💻 **PC Control** – Open apps, search the web, manage files.
+- 📡 **Real-time AI** – Uses **DeepSeek R1 API** for smart responses.
+- ⏹️ **Interruptible Speech** – Say `"AURIX Wait"` to stop ongoing speech.
+- 📝 **Chunked Speech Handling** – Smoothly delivers long answers.
 
 ---
 
